@@ -1,5 +1,5 @@
 
-# 🏋️‍♂️ **AI Fitness Planner (Agentic Hackathon Project)**
+# 🏋️‍♂️ **AI Fitness Planner** 
 
 *7-Day Personalized Workout + Diet Plan using CrewAI Agents + FastAPI + Streamlit*
 
