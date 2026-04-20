@@ -205,24 +205,6 @@ curl -X POST http://localhost:8000/generate-plan \
 
 ---
 
-# 🏁 Demo Flow (For Hackathon Presentation)
-
-1. User enters details
-2. Agents generate 7-day AI plan
-3. User views structured plan
-4. Goes to dashboard
-5. Tracks daily progress
-6. Judges see:
-
-   * Agent collaboration
-   * Functional backend
-   * Beautiful Streamlit UI
-   * Real-time progress tracking
-
-Perfect for 24-hour MVP.
-
----
-
 # 🚀 Future Improvements
 
 * AI chat fitness coach
@@ -236,7 +218,6 @@ Perfect for 24-hour MVP.
 # ❤️ Contributors
 
 **Team Fitness-AI**
-Built for *Hackathon Event*
 Tech Used: CrewAI, Google Gemini, FastAPI, Streamlit
 
 
