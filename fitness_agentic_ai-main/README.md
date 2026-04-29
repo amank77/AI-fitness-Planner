@@ -205,14 +205,6 @@ curl -X POST http://localhost:8000/generate-plan \
 
 ---
 
-# 🚀 Future Improvements
-
-* AI chat fitness coach
-* Wearable integration (steps/calories)
-* Dynamic calorie macro calculator
-* Export plan as PDF
-* Personalized workout music playlist
-
 ---
 
 # ❤️ Contributors
